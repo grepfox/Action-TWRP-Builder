@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<FIRMWARE>
+		<File name="HN8T15DEHKX075" manufacturer="SKhynix" target_version="A003"></File>
+		<File name="MT256GBEAZ4U31" manufacturer="MICRON" target_version="0103"></File>
+		<File name="MT512GAYAZ4U31" manufacturer="MICRON" target_version="0103"></File>
+</FIRMWARE>
